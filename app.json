@@ -1,0 +1,11 @@
+{
+  "expo": {
+    "name": "phetsamay",
+    "slug": "phetsamay",
+    "version": "1.0.0",
+    "assetBundlePatterns": [
+      "**/*"
+    ]
+  },
+  "name": "phetsamay"
+}
